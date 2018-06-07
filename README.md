@@ -1,2 +1,6 @@
 # RL-Basic
-Study RL
+## purpose 
+- Study RL
+    - A3C
+    - DQN
+    - Python API using C++
